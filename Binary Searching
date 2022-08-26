@@ -1,0 +1,10 @@
+Burada kök 7 baz alınmıştır.
+solunda bulunan sayıların ondan küçük sağ tarafta olanların ise ondan bütük olması gerekmektedir.
+5 sayısı 7 den küçüktür bu nedenle 7'nin soluna işlenmiştir; 1 sayısı 7 den küçük olup sol tarafa işlenmiştir beşten küçük olması onu 5'in soluna yazacaktır.
+8 sayısı 7 den büyüktür o nedenle sağa yazılmıştır. ondan sonra gelen 3 sayısı 7 den küçük olduğu için 7 nin soluna dallanma yapacaktır burada 5'ten küçük ve 1 den büyüktür 
+bu nedenle birin sağına yazılacaktır.
+6 sayısı 7 den küçük 5 ten büyüktür bu nedenle 5'in sağına yazılacaktır.
+9 sayısı 8 den büyüktür bu nedenle 8 in sağına yazılır
+0 sayısı en küçük eleman birden küçüktür bu nedenle 1 'in soluna yazılır 
+2 ve 4 sayıları en küçük eleman olan bir ve 0  dan büyüktür ama üç için bakılırsa 2 üçten küçük dört ise üçten büyüktür bu nedenle iki üçün soluna 4 ise sağına 
+dallanma yapacaktır.
