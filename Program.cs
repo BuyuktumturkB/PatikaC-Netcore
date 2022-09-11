@@ -33,6 +33,10 @@ namespace HarckerRank1
 			double c;
 			c = Convert.ToDouble(Console.ReadLine());
 			Console.WriteLine($"{c - 2.27}");
+			byte a=10;
+			short b=3;
+			int suma=a+b;
+			Console.WriteLine(suma);
 			
 
 		}
