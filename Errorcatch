@@ -1,0 +1,26 @@
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      int firscharacter = int.Parse(Console.ReadLine());
+
+   	  int secondone = int.Parse(Console.ReadLine());
+
+      int total = a-b;
+
+      Console.WriteLine(c);
+    }
+	catch(Exception ex)
+	{
+    	Console.WriteLine("UNexpected Error:  "+ ex.Message);
+	}
+	finally
+	{
+    	Console.WriteLine("Debug Operation Compplited");    
+    }
+  }
+}
