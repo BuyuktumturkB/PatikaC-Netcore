@@ -1,0 +1,63 @@
+static void Main(string[] args)
+		{
+			int scounter = 0;
+			int bcounter = 0;
+			int i = 0;
+			int j = 0;
+			int talep;
+			
+			Console.WriteLine("Lütfen adet giriniz");
+			talep = Convert.ToInt32(Console.ReadLine());
+			int[] small = new int[talep / 2];
+			int[] big = new int[talep / 2];
+
+			int [] sayılar = new int[talep];
+
+			while (talep !=0)
+			{
+				Console.WriteLine("Lütfen deger giriniz");
+				sayılar[i] = Convert.ToInt32(Console.ReadLine());
+				i++;
+				talep--;
+			}
+			Console.WriteLine(sayılar);
+
+			while (j<= sayılar.Length)
+			{
+				if (sayılar[j] < 67)
+				{
+					small[j] = sayılar[j];
+					scounter++;
+					j++;
+				}
+				else if (sayılar[j] > 67)
+				{
+					big[j] = sayılar[j];
+					bcounter++;
+					j++;
+				}
+			}
+			i=0,j = 0;
+			Console.WriteLine(small);
+			Console.WriteLine(big);
+			int [] islem = new int[bcounter];
+			int[] islem2 = new int[scounter];
+			while (bcounter != 0)
+			{
+				islem[i] = ((sayılar[i]  - sayılar[i + 1])* (sayılar[i] - sayılar[i + 1]));
+				i++;
+				bcounter--;
+
+			}
+			while (scounter != 0)
+			{
+				islem2[j] = (sayılar[j] - sayılar[j + 1]);
+				j++;
+				scounter--;
+			}
+			Console.WriteLine(islem);
+			Console.WriteLine(islem2);
+			
+
+		}
+	}
