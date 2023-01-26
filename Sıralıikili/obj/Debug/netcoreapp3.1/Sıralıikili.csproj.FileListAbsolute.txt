@@ -1,0 +1,14 @@
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\bin\Debug\netcoreapp3.1\Sıralıikili.exe
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\bin\Debug\netcoreapp3.1\Sıralıikili.deps.json
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\bin\Debug\netcoreapp3.1\Sıralıikili.runtimeconfig.json
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\bin\Debug\netcoreapp3.1\Sıralıikili.runtimeconfig.dev.json
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\bin\Debug\netcoreapp3.1\Sıralıikili.dll
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\bin\Debug\netcoreapp3.1\Sıralıikili.pdb
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.csproj.AssemblyReference.cache
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.AssemblyInfoInputs.cache
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.AssemblyInfo.cs
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.csproj.CoreCompileInputs.cache
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.dll
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.pdb
+C:\Users\cahes\source\repos\Sıralıikili\Sıralıikili\obj\Debug\netcoreapp3.1\Sıralıikili.genruntimeconfig.cache
